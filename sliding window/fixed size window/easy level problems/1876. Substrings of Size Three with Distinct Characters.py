@@ -1,3 +1,4 @@
+"""
 Question:
 
 A string is good if there are no repeated characters. 
@@ -25,9 +26,9 @@ Output: 4
 Explanation: There are 7 substrings of size 3: "aab", "aba", "bab", "abc", "bca", "cab", and "abc". 
 The good substrings are "abc", "bca", "cab", and 
 
- 
+ """
 
-Solution: 
+# Solution: 
 
 class Solution: 
 
