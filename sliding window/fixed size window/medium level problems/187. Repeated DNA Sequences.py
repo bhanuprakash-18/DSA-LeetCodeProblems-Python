@@ -1,3 +1,4 @@
+"""
 Question:
 
 The DNA sequence is composed of a series of nucleotides abbreviated as 'A', 'C', 'G', and 'T'. 
@@ -21,7 +22,9 @@ Example 2:
 Input: s = "AAAAAAAAAAAAA" 
 Output: ["AAAAAAAAAA"] 
 
-Sol: 
+"""
+
+#  Solution: 
 
 class Solution: 
 
