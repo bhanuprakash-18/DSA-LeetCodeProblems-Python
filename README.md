@@ -17,6 +17,11 @@ The repository is structured into folders based on problem types and difficulty 
     - Easy
     - Medium
     - Hard
+- **Stack Problems**
+    - Easy
+    - Medium
+    - Hard
+
 
 ...
 
